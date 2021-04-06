@@ -1,2 +1,2 @@
 #!/bin/sh
-pipenv run app/main.py
+pipenv run python app/main.py
