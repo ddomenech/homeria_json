@@ -29,3 +29,15 @@ en la que se trabajará con un JSON sobre el cuál se harán diferentes operacio
         }
 
 - Se valorará la dockerización de la prueba, por lo que si se hace uso de Docker, adjuntar el fichero Dockerfile
+
+## Ejecución del proyecto
+
+```shell
+pipenv run python app/main.py
+```
+
+## Ejecución con Docker
+
+```shell 
+docker-compose up
+```
